@@ -32,6 +32,6 @@ All of those secrets are required for the script to work, if you forget to add o
 
 10) Once connected, be sure to not close any already open processes and windows, and most importantly: DO NOT UNINSTALL NOTHING
 
-11) Enjoy!
+11) Enjoy! T
 
 ### Please note that the duration of the runners in GitHub Actions is for 6 hours, so, the RDP machine lasts 6 hours.
